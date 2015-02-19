@@ -42,7 +42,7 @@ TodoItem = React.createClass do
 
 # compare that with:
 #
-#     ``<li
+#           ``<li
 #                className={cx({
 #                  'completed': todo.complete,
 #                  'editing': this.state.isEditing
